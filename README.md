@@ -1,9 +1,9 @@
 # NTRU-Sharp
 NTRU C# Wrapper
 
-This wrapper implements an interface with [*libntru*] (https://tbuktu.github.io/ntru/) It is currently under development the documentation is coming soon.
+This wrapper implements an interface with [*libntru*](https://tbuktu.github.io/ntru/) It is currently under development the documentation is coming soon.
 
-This wrapper intends to use only Mono 2.0  libraries to make it compatible with with other software packages such as [*Unity3d*] (http://unity3d.com/).
+This wrapper intends to use only Mono 2.0  libraries to make it compatible with with other software packages such as [*Unity3d*](http://unity3d.com/).
 
 ### TODO
 - [x] Generate Keypair
@@ -17,11 +17,11 @@ This wrapper intends to use only Mono 2.0  libraries to make it compatible with 
 
 ### NTRU C Source
 
-Download NTRU source [here] (https://github.com/tbuktu/libntru)
+Download NTRU source [here](https://github.com/tbuktu/libntru)
 
 ### Mono
 
-Download and install latest distribution [here] (http://www.mono-project.com/download/)
+Download and install latest distribution [here](http://www.mono-project.com/download/)
 
 ## Compiling & Testing NTRU-Sharp
 
